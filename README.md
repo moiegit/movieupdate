@@ -26,3 +26,4 @@ FUTURE PLANS
 
 1. Practice scraping with images and include the movie posters in the email
 2. Try and add multiple recipients if some people are also interested
+3. Try other sources - TV Series, etc
